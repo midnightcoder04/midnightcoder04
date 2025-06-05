@@ -1,7 +1,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on Software Development Freelance works<br>👯 I’m looking to collaborate on most interesting fields, mainly Software development<br>🤝 I’m looking for help with Web related, and Coding related works<br>🌱 I’m currently learning Augmented Reality, Gen-AI, App Dev etc..<br>💬 Ask me about me and my interests <br>📫 How to reach me : ![LinkedIn](https://www.linkedin.com/in/harikrishnan-h911/) <br>⚡ Fun fact : I cut nails with a blade
+🔭 I’m currently working on Software Development Freelance works<br>👯 I’m looking to collaborate on any interesting field<br>🤝 I’m looking for help with Web related, and Coding related works<br>🌱 I’m currently learning Augmented Reality, Gen-AI, App Dev etc..<br>💬 Ask me about me and my interests <br>📫 How to reach me : ![LinkedIn](https://www.linkedin.com/in/harikrishnan-h911/) <br>⚡ Fun fact : I cut nails with a blade
 
 
 # 💻 Tech Stack:
